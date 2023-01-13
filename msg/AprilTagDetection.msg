@@ -1,6 +1,7 @@
 string family
 int32 id
 int32 hamming
+float64 size
 float32 goodness
 float32 decision_margin
 geometry_msgs/PoseStamped pose
